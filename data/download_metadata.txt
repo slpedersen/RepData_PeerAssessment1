@@ -1,0 +1,12 @@
+[1] "Download date:"
+[1] "2015-04-29 10:50:23 EDT"
+[1] "Download URL:"
+[1] "https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip"
+[1] "Downloaded file Information"
+                                  size isdir mode               mtime
+./data/repdata_data_activity.zip 53559 FALSE  666 2015-04-29 10:50:23
+                                               ctime               atime exe
+./data/repdata_data_activity.zip 2015-04-29 10:50:23 2015-04-29 10:50:23  no
+[1] "Downloaded file md5 Checksum"
+  ./data/repdata_data_activity.zip 
+"61e0c1f8c4a736ff1ab0f8863344b301" 
